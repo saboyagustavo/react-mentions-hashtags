@@ -16,7 +16,8 @@ This project was build using the following technologies:
 - JavaScript
 - npm/yarn
 - ReactJS
-- TailwaindCSS
+- TailwindCSS
+- react-mentions
 - Create-React-App boilerplate
 
 ## 📝 License
